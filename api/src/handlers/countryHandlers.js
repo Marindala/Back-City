@@ -30,4 +30,4 @@ const getById = async (req, res) =>{
 module.exports ={
     getCountries,
     getById
-}g
+}
