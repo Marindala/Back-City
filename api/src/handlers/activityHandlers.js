@@ -1,6 +1,6 @@
 require("dotenv").config();
 const {getAllActivities} = require("../controllers/activityControllers.js")
-const {createActivity} = require ("../controllers/activityCreateControllers.js")
+const {createActivity} = require ("../controllers/activityCreate.js")
 
 
 
